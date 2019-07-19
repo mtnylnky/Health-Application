@@ -2,6 +2,7 @@
 Kişisel Sağlık Uygulaması
 <br>
 <p>HeApp, bilgisayar başında geçirilen uzun sürelerde daha fazla sağlıklı aktiviteler gerçekleştirmeyi amaçlamaktadır.</p>
+<img src="https://github.com/mtnylnky/Health-Application/blob/master/screenshot/pic1.png"/>
 <h2>Menüler</h2>
 <h3>Durum</h3>
 <p style="font-size:12px;">Bireyin günlük olarak;<br>&emsp;•Bilgisayar kullanım süresi<br>&emsp;•Gereken su tüketimi<br>
