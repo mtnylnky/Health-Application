@@ -13,6 +13,7 @@ Kişisel Sağlık Uygulaması
 <p style="font-size:12px;">Bireyin günlük olarak tükettiği besinlerden alması gereken karbonhidrat, yağ, lif, şeker, kalori
 gibi ihtiyaçların ne kadar alınması gerektiğine dair bilgilerin bulunduğu menüdür.</p>
 <h3>Bilgileriniz</h3>
+<img src="https://github.com/mtnylnky/Health-Application/blob/master/screenshot/pic4.png"/>
 <p style="font-size:12px;">HeApp uygulamasının hakkınızda önerilerde bulunabilmesi için sizden gereken bilgileri aldığı menüdür.</p>
 <h3>Ayarlar</h3>
 <img src="https://github.com/mtnylnky/Health-Application/blob/master/screenshot/pic3.png"/>
